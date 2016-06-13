@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (2.0.2)
+  - Argo (2.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0.0)
+  - Argo
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  Argo: 3dbecf4204b1a3cdd1df88ebd5e23d01b652d34b
+
+PODFILE CHECKSUM: eaf0de019a495b3b566988eb06ef9e9244f64f47
+
+COCOAPODS: 1.0.1

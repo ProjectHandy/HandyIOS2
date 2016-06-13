@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Handy2/SearchViewController.swift"
+            timestampString = "481255047.243407"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SearchViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Handy2.SearchViewController.__deallocating_deinit"
+                  moduleName = "Handy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cggong/Documents/p/handy/Handy2/Handy2/SearchViewController.swift"
+                  timestampString = "481212238.291314"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Handy2.SearchViewController.init (Handy2.SearchViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Handy2.SearchViewController"
+                  moduleName = "Handy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cggong/Documents/p/handy/Handy2/Handy2/SearchViewController.swift"
+                  timestampString = "481212238.295329"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Handy2.SearchViewController.init (Handy2.SearchViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Handy2.SearchViewController&gt;"
+                  moduleName = "Handy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cggong/Documents/p/handy/Handy2/Handy2/SearchViewController.swift"
+                  timestampString = "481212238.29565"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
